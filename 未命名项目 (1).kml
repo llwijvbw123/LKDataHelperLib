@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>未命名项目</name>
+	<gx:CascadingStyle kml:id="__managed_style_2C9CA221C3239C90C79C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1863B740A3239C90C79C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E16BAF2BA239C90C79C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1863B740A3239C90C79C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2C9CA221C3239C90C79C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0723BF3927239C90C79B">
+		<name>边形</name>
+		<LookAt>
+			<longitude>118.146323950464</longitude>
+			<latitude>21.77781000484413</latitude>
+			<altitude>-22.69086564739216</altitude>
+			<heading>3.784638676570077</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1043570.306065679</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E16BAF2BA239C90C79C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						119.4153076468234,22.57695162505587,257.7360985397343 119.6374243899646,21.95380669645171,-90.29520555536183 120.0361666955796,21.92546137216798,275.6507332544609 120.0939854722711,22.39685700679114,-46.32697032461108 119.4153076468234,22.57695162505587,257.7360985397343 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0BE31BF3B9239C912963">
+		<name>多边形</name>
+		<LookAt>
+			<longitude>118.1463237743549</longitude>
+			<latitude>21.77780982883899</latitude>
+			<altitude>-22.69065772661451</altitude>
+			<heading>3.784638676569979</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1043570.306065679</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E16BAF2BA239C90C79C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						122.379493715733,23.29423904100768,-33.9439898433432 122.2185390853123,22.55898912788764,271.0947455138627 122.7528938841478,22.51649644245506,149.9911080708431 122.8298899539686,23.16157279883102,62.86609023073228 122.379493715733,23.29423904100768,-33.9439898433432 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
